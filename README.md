@@ -48,7 +48,7 @@ I'm a highly driven and creative **Web Designer & Developer** based in Kenya, cu
 
 - **GitHub:** [github.com/Victor-murimi-web](https://github.com/Victor-murimi-web)
 - **LinkedIn:** *https://www.linkedin.com/in/victor-murimi-0a1a36348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
-- **Portfolio:** *Coming Soon* (or insert your link)
+- **Portfolio:** *Coming Soon*
 - **Email:** *victormurimi590@gmail.com*
 
 ---
