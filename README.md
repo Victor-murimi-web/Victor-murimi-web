@@ -1,4 +1,3 @@
-
 ---
 
 <h1 align="center">Hi there, I'm Victor Murimi</h1>
