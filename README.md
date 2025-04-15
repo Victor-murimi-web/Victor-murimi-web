@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">Hi there, I'm Victor Murimi</h1>
+<h1 align="center">Welcome to My GitHub </h1>
 <p align="center">
   Passionate Web Designer & Developer | Entrepreneur | Lifelong Learner
 </p>
