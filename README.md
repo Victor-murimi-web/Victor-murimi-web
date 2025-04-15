@@ -10,7 +10,7 @@ Perfect! Here's a polished and professional version of your GitHub profile READM
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a highly driven and creative **Web Designer & Developer** based in Kenya, currently pursuing professional training at **Certitute Digital Training Center**. I specialize in building functional, aesthetic, and user-centered websites using **hard coding** and **WordPress**. My work is guided by a strong focus on detail, usability, and modern design principles.
 
@@ -25,10 +25,7 @@ I'm a highly driven and creative **Web Designer & Developer** based in Kenya, cu
 ---
 
 ### 💼 Notable Projects
-
-- **Flow Matic** – Smart automated cars project designed to reduce traffic congestion
-- **Springfield University Website** – Fully developed institutional website with custom pages
-- **Blue Sky Digital School** – Digital learning platform promoting tech education in Kenya
+- **Certitude Digital Training Center Website ** – Fully developed institutional website with custom pages
 - **Real Estate Landing Page** – Elegant, conversion-focused property showcase site
 
 ---
@@ -44,7 +41,7 @@ I'm a highly driven and creative **Web Designer & Developer** based in Kenya, cu
 
 ### 🌍 Beyond the Code
 
-- Proud **entrepreneur** running a local **egg-selling business**
+- Proud **entrepreneur** running a local **poultry business**
 - Engaged in **community outreach** through tech education initiatives
 - Currently marketing **Certitute Digital Training Center** across Kenya
 
