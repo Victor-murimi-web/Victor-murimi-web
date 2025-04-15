@@ -1,5 +1,3 @@
-Perfect! Here's a polished and professional version of your GitHub profile README, customized with your username Victor-murimi-web:
-
 
 ---
 
@@ -50,9 +48,9 @@ I'm a highly driven and creative **Web Designer & Developer** based in Kenya, cu
 ### 📫 Let’s Connect!
 
 - **GitHub:** [github.com/Victor-murimi-web](https://github.com/Victor-murimi-web)
-- **LinkedIn:** *Coming Soon* (or insert your link)
+- **LinkedIn:** *https://www.linkedin.com/in/victor-murimi-0a1a36348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
 - **Portfolio:** *Coming Soon* (or insert your link)
-- **Email:** *Insert your email here*
+- **Email:** *victormurimi590@gmail.com*
 
 ---
 
@@ -63,5 +61,4 @@ I'm a highly driven and creative **Web Designer & Developer** based in Kenya, cu
 
 ---
 
-Would you like me to add a GitHub stats section or some badges as well? They can make your profile even more engaging.
 
